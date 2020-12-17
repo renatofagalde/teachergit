@@ -1,1 +1,1 @@
-insert into pessoa values ('mame');
+insert into pessoa values ('mame')/
